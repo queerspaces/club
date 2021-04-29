@@ -1,0 +1,376 @@
+body {
+
+font-family: sans-serif;
+font-size: 25px;
+
+width: 4500px;
+height: 2750px;
+background-image:
+url('https://i.imgur.com/rQpPLkV.gif'),
+url('https://i.imgur.com/pFBkiA9.gif'),
+url('https://i.imgur.com/oG1SqeB.gif'),
+
+url('https://i.imgur.com/qpezCFE.gif'),
+url('https://i.imgur.com/uwkaRBY.gif'),
+url('https://i.imgur.com/uwkaRBY.gif'),
+url('https://i.imgur.com/bK8wVXs.gif'),
+url('https://i.imgur.com/bK8wVXs.gif'),
+url('https://i.imgur.com/bK8wVXs.gif'),
+url('https://i.imgur.com/bK8wVXs.gif'),
+url('https://i.imgur.com/bK8wVXs.gif'),
+
+url('https://i.imgur.com/awEGbiv.gif'),
+url('https://i.imgur.com/awEGbiv.gif'),
+url('https://i.imgur.com/awEGbiv.gif'),
+url('https://i.imgur.com/awEGbiv.gif'),
+url('https://i.imgur.com/awEGbiv.gif'),
+url('https://i.imgur.com/wInJJxM.gif'),
+url('https://media.giphy.com/media/xUA7bghosFihGxAnba/giphy.gif'),
+url('https://media.giphy.com/media/l41JUhcCreHloiiru/giphy.gif'),
+url('https://media.giphy.com/media/3oxHQERYBueKZdAb9m/giphy.gif'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/Nlc2p9K.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/KyVIqMe.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/zE449Cx.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/iDNsAxY.png'),
+url('https://i.imgur.com/sOqV6Y6.jpg');
+
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+500px 2000px,
+1700px 1700px,
+3000px 1000px,
+
+800px 100px,
+
+4000px 650px,
+600px 1300px,
+
+100px 2000px,
+3200px 2200px,
+2400px 1200px,
+3200px 150px,
+4000px 1400px,
+
+4300px 100px,
+1500px 2500px,
+900px 550px,
+2200px 1000px,
+
+4000px 2300px,
+
+3400px 1500px,
+50px 2400px,
+2400px 575px,
+2000px 0px,
+
+2500px 800px,
+2700px 1500px,
+1700px 2200px,
+1300px 1300px,
+1700px 1300px,
+2900px 1300px,
+1900px 700px,
+2100px 1900px,
+2300px 1700px,
+1900px 900px,
+2000px 1500px,
+
+4300px 2700px,
+4300px 2000px,
+4300px 1700px,
+4300px 900px,
+4100px 900px,
+3900px 900px,
+3900px 2000px,
+3900px 300px,
+3700px 600px,
+3700px 1900px,
+3500px 100px,
+2700px 400px,
+500px 700px,
+2500px 1900px,
+3100px 800px,
+1900px 400px,
+3000px 400px,
+3100px 1700px,
+3500px 1100px,
+700px 900px,
+4000px 100px,
+3900px 500px,
+3100px 1700px,
+4300px 2500px,
+
+
+2500px 2500px,
+2300px 2500px,
+2100px 2500px,
+1900px 2500px,
+2500px 2300px,
+2500px 2100px,
+2500px 1900px,
+2100px 2100px,
+1500px 2300px,
+1700px 1500px,
+1700px 1700px,
+1500px 2100px,
+1700px 2300px,
+1300px 2100px,
+1900px 1900px,
+400px 400px,
+800px 800px,
+1000px 2500px,
+700px 2300px,
+900px 1900px,
+3000px 2500px,
+
+300px 100px,
+500px 500px,
+500px 100px,
+700px 700px,
+900px 900px,
+700px 100px,
+900px 100px,
+1100px 100px,
+1100px 1100px,
+1500px 1500px,
+100px 500px,
+100px 700px,
+300px 300px,
+100px 100px,
+500px 900px,
+1500px 700px,
+top left;
+
+background-size:
+180px 326px,
+250px 426px,
+350px 526px,
+250px 426px,
+auto,
+640px 360px,
+auto,
+auto,
+auto,
+auto,
+auto,
+
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+4500px 2950px;
+
+}
+
+#text1{
+  color:#66fc03;
+  position: absolute;
+  right: 800px;
+  bottom: 300px;
+  width: 350px;
+}
+
+#text2{
+  color:#f74802;
+  position: absolute;
+  right: -300px;
+  bottom: -700px;
+  width: 450px;
+}
+
+#text3{
+  color:#fc05e4;
+  position: absolute;
+  right: -700px;
+  bottom: -1400px;
+  width: 750px;
+}
+
+#text4{
+  color:#ecfc05;
+  position: absolute;
+  right: -1500px;
+  bottom: -400px;
+  width: 350px;
+}
+
+#text5{
+  color:#05fc57;
+  position: absolute;
+  right: -2700px;
+  bottom: -500px;
+  width: 350px;
+}
+
+#text6{
+  color:#05fc57;
+  position: absolute;
+  right: -2600px;
+  bottom: -600px;
+  width: 350px;
+}
+
+#text7{
+  color:#05fc57;
+  position: absolute;
+  right: -2700px;
+  bottom: -1450px;
+  width: 350px;
+}
+
+#text8{
+  color:#05fc57;
+  position: absolute;
+  right: -3050px;
+  bottom: -1100px;
+  width: 350px;
+}
